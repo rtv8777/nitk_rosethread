@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 veron
+=======
+saif
+mohamad
+rahul
+>>>>>>> a97a372 (add)
